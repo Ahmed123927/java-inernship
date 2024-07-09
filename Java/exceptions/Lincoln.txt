@@ -1,16 +1,13 @@
-Four score and seven years ago our fathers brought forth on this continent, a new nation, 
-conceived in Liberty, and dedicated to the proposition that all men are created equal.
+Dear Hiring Manager,
 
-Now we are engaged in a great civil war, testing whether that nation, or any nation so 
-conceived and dedicated, can long endure. We are met on a great battle-field of that war. 
-We have come to dedicate a portion of that field, as a final resting place for those who here gave their 
-lives that that nation might live. It is altogether fitting and proper that we should do this.
+I am writing to express my interest in the Back-End Developer (Java-Spring) Internship position at DentaCarts, as advertised. With a solid foundation in computer science principles and hands-on experience in Java and the Spring framework, I am excited about the opportunity to contribute to your innovative team and grow my skills in a real-world setting.
 
-But, in a larger sense, we can not dedicate -- we can not consecrate -- we can not hallow -- this ground. 
-The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
-The world will little note, nor long remember what we say here, but it can never forget what they did here. 
-It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus 
-far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us -- that from these 
-honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that 
-we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new 
-birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth. 
+I am currently pursuing a degree in Computer Science at Helwan University, where I have honed my programming abilities and gained practical experience through various projects and coursework. My academic journey has provided me with a strong understanding of programming fundamentals, object-oriented design, and database management. Additionally, my familiarity with Java and the Spring framework has been enhanced through personal projects and coursework, allowing me to build scalable and efficient backend systems.
+
+What excites me most about this internship is the opportunity to work on impactful projects under the guidance of seasoned professionals at DentaCarts. I am particularly drawn to your company's commitment to fostering a collaborative and inclusive workplace culture, as I believe that working in such an environment will enable me to thrive and make meaningful contributions. Furthermore, the chance to network with industry experts and peers is an invaluable opportunity that I am eager to embrace.
+
+During my time at Helwan University, I have developed excellent communication and interpersonal skills, which I believe are crucial for effective teamwork and collaboration. I am confident that my technical skills, coupled with my passion for learning and growth, make me a strong candidate for this internship.
+
+I have attached my resume for your review and would be thrilled to discuss my application further. Thank you for considering my application. I look forward to the possibility of contributing to DentaCarts and advancing my career in technology.
+
+Sincerely
