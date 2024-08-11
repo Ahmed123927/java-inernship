@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Product List</title>
+</head>
+<body>
+
+<h2>Product List</h2>
+
+<a href="/add-pro">
+    <button type="button">Add Product</button>
+</a>
+
+<table border="1">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>brand</th>
+        <th>category</th>
+        <th>Price</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="product : ${products}">
+        <td th:text="${product.id}">1</td>
+        <td th:text="${product.name}">Product Name</td>
+        <td th:text="${product.brand}">Product Name</td>
+        <td th:text="${product.category}">Product Name</td>
+        <td th:text="${product.price}">0</td>
+        <td>
+            <a th:href="@{/show-update/{id}(id=${product.id})}">
+                <button type="button">Update</button>
+            </a>
+
+            <a th:href="@{/delete/{id}(id=${product.id})}">
+                <button type="button">Delete</button>
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
