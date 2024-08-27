@@ -48,4 +48,9 @@ public class AppController {
         productService.updateProduct(product);
         return "redirect:/";
     }
+
+//    @RequestMapping("/test")
+//    public String test(@RequestParam) {
+//        return "test";
+//    }
 }
