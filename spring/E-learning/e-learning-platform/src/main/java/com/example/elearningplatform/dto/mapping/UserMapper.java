@@ -21,7 +21,6 @@ public class UserMapper {
                 .build();
     }
 
-    // Convert UserDto to User entity
     public static User toEntity(UserDto userDto) {
         if (userDto == null) {
             return null;

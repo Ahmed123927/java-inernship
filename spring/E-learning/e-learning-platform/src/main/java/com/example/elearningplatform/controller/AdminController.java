@@ -33,7 +33,6 @@ public class AdminController {
         userService.removeUserById(id);
     }
 
-    // Get all pending courses
     @GetMapping("/pending-courses")
     public ResponseEntity<List<CourseDTO>> getAllPendingCourses() {
         List<CourseDTO> courses = courseService.getAllPendingCourses();

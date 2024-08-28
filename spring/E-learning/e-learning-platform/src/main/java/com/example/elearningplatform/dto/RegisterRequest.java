@@ -25,7 +25,7 @@ public class RegisterRequest {
 
     @Pattern(
             regexp = "^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])(?=\\S+$).{8,20}$",
-            message = "Password must be 8-20 characters, include at least one digit, one uppercase letter, one lowercase letter, and one special character"
+            message = "Password must be 8-20 characters, one digit, one uppercase letter, one lowercase letter, one special character"
     )
     private String password;
 
